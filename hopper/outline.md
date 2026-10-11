@@ -6,7 +6,7 @@ The solution is a ballistic hopper with the layout borrowed from multicopter dro
 
 ![quad hopper](images/image2.png "Quad-hopper")
 
-## Basic specs
+## Specifications
 - MTOW: 100 tonnes (wet)
 - Structure: 15 tonnes
 - Payload: 10 tonnes, 8 people.
@@ -15,5 +15,5 @@ The solution is a ballistic hopper with the layout borrowed from multicopter dro
 - Range: 600 km, ferry (one ascent, one landing)
 
 ## Propulsion
-- Basics: 12x100kN methalox engines (4x3 in each engien pod) for 1.2 TWR on Earth, allowing flight-testing, 3.15 TWR on Mars, adding engine(s) out capability. 
+- 12x100kN methalox engines (4x3 in each engine pod) for 1.2 TWR on Earth, allowing flight-testing; 3.15 TWR on Mars, adding engine(s) out capability. 
 
