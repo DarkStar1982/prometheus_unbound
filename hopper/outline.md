@@ -3,7 +3,7 @@ No roads, variable and rugged terrain - rovers get stuck, humans can only go so 
 
 The solution is a ballistic hopper with the layout borrowed from multicopter drones - rocket engines mounted high above the body to dissipate exhaust during landings and ascents from unprepared ground. Both ascent and landing is done propulsively, with no reliance on oaerobraking or aerogliding. (L/D ~ 1) See below for example of design. Quad/Hex/Octo-hopper configuration can be also evaluated .
 
-![quad hopper](images/image_2.png "Quad-hopper")
+![quad hopper](images/image2.png "Quad-hopper")
 
 ## Basic inputs / assumptions ##
 - MTOW: 100 tonnes (wet)
